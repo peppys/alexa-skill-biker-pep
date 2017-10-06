@@ -1,0 +1,5 @@
+module.exports = {
+    PEPPY_STRAVA_ID: 25126694,
+    METERS_IN_A_MILE: 1609.34,
+    SECONDS_IN_A_MINUTE: 60
+};
